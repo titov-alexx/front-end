@@ -1,0 +1,37 @@
+img {
+	display: block;
+	height: 700px;
+	margin: 0 auto;
+}
+
+div {
+	display: inline-block;
+}
+
+.overlay {
+	position: absolute;
+	background-color: rgba(88, 176, 215, 0.8);
+    left: 8px;
+    width: 394px;
+    height: 655px;
+}
+
+p {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
+.spinner img {
+	height: 60px;
+}
+
+.spinner {
+	width: 135px;
+    border-radius: 4px;
+    background-color: #fff;
+    position: absolute;
+    left: 136px;
+    top: 293px;
+    padding-top: 13px;
+}
